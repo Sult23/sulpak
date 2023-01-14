@@ -322,7 +322,7 @@ body {
 	max-width: 400px;
 }
 .processor__inner {
-	background: url(/img/processor.jpg) no-repeat;
+	background: url(./img/processor.jpg) no-repeat;
 	background-size: cover;
 	background-position: center;
 	height: 550px;
